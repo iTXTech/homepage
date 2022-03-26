@@ -1,0 +1,19 @@
+{
+  "name": "itxtech-homepage",
+  "version": "1.0.0",
+  "description": "Homepage of iTX Technologies",
+  "main": "index.js",
+  "repository": "https://github.com/iTXTech/homepage",
+  "author": "PeratX",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
+    "@vuepress/plugin-nprogress": "^1.9.7",
+    "@vuepress/plugin-pwa": "^1.9.7",
+    "vuepress": "^1.9.7"
+  }
+}
