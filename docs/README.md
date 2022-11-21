@@ -60,13 +60,15 @@ We joined open source world since 2015.
 
 # Sponsor us
 
-## EVM (`Ethereum`, `BSC`, `Polygon`, `Avalance C-Chain`)
+Please send a mail to us after you've sent your coin, so we can put you on our sponsorship list.
+
+## EVM (`Ethereum`, `BSC`, `Polygon`, `Optimism`, `Arbitrum`, `Avalanche C-Chain`)
 
 We accept all coins from all EVM compatible chains.
 
 * `0x2425B3523BA0Ba63c91F6Eb8D3fd0d76E814B7EA`
 
-## Terra
+## Terra - A decentralized economy needs decentralized money
 
 We accept all coins from `Terra` or `Terra Classic`.
 
